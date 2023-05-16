@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Camisa",
+        "price" : 1000,
+        "discount": 50,
+        "url": "https://picsum.photos/180"
+
+    },
+    {
+        "name": "Pantalón",
+        "price" : 600,
+        "discount": 30,
+        "url": "https://picsum.photos/180"
+
+    },
+    {
+        "name": "Zapatos",
+        "price" : 1200,
+        "discount": 10,
+        "url": "https://picsum.photos/180"
+
+    },
+    {
+        "name": "Lentes",
+        "price" : 700,
+        "discount": 60,
+        "url": "https://picsum.photos/180"
+
+    },
+    {
+        "name": "Labial",
+        "price" : 100,
+        "discount": 30,
+        "url": "https://picsum.photos/180"
+
+    }
+]
