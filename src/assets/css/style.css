@@ -1,0 +1,17 @@
+* {
+
+}
+
+:root{
+    --main: #d93636;
+    --secoundary: #D93240;
+    --white: #fff;
+    --card-background: #f2f2f0;
+    --text: #403f37;
+    --container: #bfbfbf;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: var(--text);
+}
